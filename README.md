@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+A demo react application which implements the logic behind adding and deleting items in a shopping cart.
 ## Available Scripts
 
 In the project directory, you can run:
