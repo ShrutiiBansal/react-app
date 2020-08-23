@@ -13,7 +13,7 @@ class Counters extends Component {
         {counters.map((counter) => (
           <Counter
             key={counter.id}
-            counter={counter}
+            counter={counters}
             onDelete={onDelete}
             onIncrement={onIncrement}
           ></Counter>
